@@ -54,3 +54,11 @@ artifact: com.ocpsoft.forge:prettyfaces-plugin:1.0.0.Alpha4
 gitrepo: git://github.com/ocpsoft/prettyfaces-forge-plugin.git
 tags: url-rewrite, urlrewrite, prettyfaces, servlet, javaee, java ee, jsf, jsf2, ocpsoft
 ---
+name: openshift
+author: Krishna Raman
+website: http://www.openshift.org/
+description: Openshift Flex cloud management and deployment plugin for JEE applications
+artifact: org.redhat.openshift:plugin-openshift:1.0.0-SNAPSHOT
+gitrepo: git://github.com/forge/plugin-openshift.git
+tags: cloud, openshift, openshift-flex, jboss
+---
